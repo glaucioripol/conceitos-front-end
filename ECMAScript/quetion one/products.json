@@ -26,5 +26,12 @@
     "active": false,
     "cost": 1999.99,
     "categoryId": 2
+  },
+  {
+    "id": 5,
+    "name": "Motorola Moto G7 power.",
+    "active": true,
+    "cost": 1799.99,
+    "categoryId": 4
   }
 ]
