@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook CCE, i3, 2GB de ram.",
+    "active": true,
+    "cost": 1500,
+    "categoryId": 1
+  },
+  {
+    "id": 2,
+    "name": "Fogão Brastemp, 4 bocas.",
+    "active": true,
+    "cost": 1234.95,
+    "categoryId": 2
+  },
+  {
+    "id": 3,
+    "name": "Microndas Brastemp, 20 litros.",
+    "active": true,
+    "cost": 426,
+    "categoryId": 3
+  },
+  {
+    "id": 4,
+    "name": "Motorola Moto G8 power.",
+    "active": false,
+    "cost": 1999.99,
+    "categoryId": 2
+  }
+]
